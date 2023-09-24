@@ -1,0 +1,150 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "skills": "",
+    "projects": "",
+    "awards": "",
+    "work": "Work Experience"
+  },
+  "basics": {
+    "name": "Simran Bardhan",
+    "email": "simranbardhan13@gmail.com",
+    "phone": "9769813103",
+    "location": {
+      "address": "Mumbai"
+    },
+    "website": "https://github.com/simran1362"
+  },
+  "education": [
+    {
+      "institution": "Dwarkadas Jivanlal Sanghvi College of Engineering",
+      "location": "Mumbai",
+      "studyType": "BTech",
+      "startDate": "2020",
+      "endDate": "2024",
+      "gpa": "9.4",
+      "area": "Computer Engineering"
+    },
+    {
+      "institution": "Prakash College of Engineering",
+      "location": "Mumbai",
+      "area": "PCM",
+      "studyType": "Higher Secondary Education",
+      "gpa": "9.0",
+      "startDate": "2018",
+      "endDate": "2020"
+    }
+  ],
+  "work": [
+    {
+      "location": "Mumbai",
+      "position": "Software Developer",
+      "website": "",
+      "endDate": "August 2023",
+      "highlights": [
+        "Spearheaded frontend development projects using technologies like Next.js, TypeScript, CSS, MUI, and Styled Components, ensuring sleek and user-friendly interfaces.",
+        "Cultivated strong collaboration skills by actively engaging with multidisciplinary teams, effectively translating design concepts from Figma into interactive user interfaces.",
+        "Demonstrated adeptness in Agile methodologies, participating in sprint planning, sprint cadence management, and aligning technical solutions with the broader business objectives.",
+        "Gained fundamental knowledge in React Native, broadening the scope of mobile application development expertise within the team, and contributing to versatile software solutions."
+      ],
+      "company": "Apollo Global Management Inc.",
+      "startDate": "June 2023"
+    },
+    {
+      "highlights": [
+        "Led design efforts at Safwhigre, pioneering the Double Diamond process, creating scalable design components, and optimizing color palettes in Figma.",
+        "Successfully managed sprint planning and remote work techniques, fostering efficient collaboration within a solo design role.",
+        "Emphasized research-driven design approach, emphasizing the critical role of pre-design research in product development.",
+        "Championed user research initiatives, prioritizing user understanding, and ensuring research-informed design decisions."
+      ],
+      "company": "Safwhigre",
+      "position": "UX Design Lead",
+      "location": "Remote",
+      "startDate": "August 2022",
+      "endDate": "November 2023"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Next.js",
+        "React.js",
+        "Typescript",
+        "Material UI",
+        "Tailwind CSS"
+      ],
+      "name": "Frontend Development"
+    },
+    {
+      "keywords": [
+        "Lambda",
+        "EC2",
+        "ECS",
+        "ECR",
+        "API Gateway",
+        "Fargate",
+        "RDS",
+        "DynamoDB"
+      ],
+      "name": "Cloud Development AWS"
+    },
+    {
+      "keywords": [
+        "C/C++",
+        "Java",
+        "Python",
+        "JavaScript"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "Figma",
+        "Canva",
+        "VS Code",
+        "Git/Github",
+        "Postman",
+        "XCode",
+        "MySQL Workbench"
+      ],
+      "name": "Tools"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Smart Calculator ",
+      "keywords": [
+        "XCode",
+        "SwiftUI"
+      ],
+      "description": "Created a fundamental iOS calculator using Xcode and SwiftUI, unlocking a deep understanding of both tools. This personal project immersed me in Xcode's functionality, allowing me to grasp its intricacies. I honed my skills in SwiftUI syntax and functions, becoming proficient in crafting user interfaces for iOS applications. This hands-on experience illuminated the path from project inception to coding, testing, and deployment, providing clarity on iOS development processes. Overall, this undertaking served as a pivotal learning experience, solidifying my foundation in iOS app development and showcasing my ability to swiftly absorb and apply new technologies, setting the stage for future projects in the iOS ecosystem."
+    },
+    {
+      "keywords": [
+        "Google Colab",
+        "Sci-kit Learn",
+        null
+      ],
+      "name": "Analysis and Prediction of VBDs : Dengue (Research Project)",
+      "description": "I collaborated with three peers to develop a novel dataset encompassing climate parameters and dengue cases in various Indian locations. Utilizing state-of-the-art machine learning algorithms, we crafted a predictive model to assess the impact of climate change on vector-borne diseases, with a focus on dengue outbreaks. Our project not only involves model comparison but also offers the ability to forecast future dengue cases based on weather forecasts. This initiative showcases my dedication to interdisciplinary research and data-driven solutions for public health challenges."
+    }
+  ],
+  "awards": [
+    {
+      "date": "6th March, 2022",
+      "awarder": "Thapar Institute of Engineering and Technology",
+      "summary": "Achieved victory in the Make4Thon Hackathon, earning $375 Wolfram Award and prizes including Azure pass, Coding Blocks courses, and more.",
+      "title": "Make4Thon Health PS"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
